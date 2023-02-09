@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "name": "testu",
+    "surname": "testu",
+    "username": "aqularu",
+    "email": "nikolay@nou.com",
+    "phone": "89215692751",
+    "password": "$2b$10$fn7Qhi2t8O3xmGRJyij1WOnqcCst7bk/4GueerqDoVl3Vd5Uq5Hui",
+    "del": false,
+    "role": "user"
+  },
+  {
+    "id": 0,
+    "name": "testa",
+    "surname": "testa",
+    "username": "aqulara",
+    "email": "nikolay@noa.com",
+    "phone": "89215692751",
+    "password": "$2b$10$fn7Qhi2t8O3xmGRJyij1WOnqcCst7bk/4GueerqDoVl3Vd5Uq5Hui",
+    "del": false,
+    "role": "user"
+  }
+]

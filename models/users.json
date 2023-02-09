@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "name": "Николай",
+    "surname": "Ashapatov",
+    "username": "aqular",
+    "email": "nik@no.com",
+    "phone": "89215293748",
+    "password": "$2b$10$jPGvRuXra1Cl6IEiXdMGQuH3vnVkq3YdMQNCeZqCzp9cJ/JDotSj.",
+    "del": false,
+    "role": "user"
+  }
+]
