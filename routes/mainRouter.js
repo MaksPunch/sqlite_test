@@ -17,10 +17,10 @@ let resultbd
 (async () => {
     // open the database
     const db = await open({
-      filename: './database/tst.db',
+      filename: './database/proj.db',
       driver: sql3.Database
     })
-    resultbd = await db.all('SELECT * FROM dog_params');
+    resultbd = await db.all('SELECT * FROM goods');
 })()
 
 router.get('/', (req, res) => {
